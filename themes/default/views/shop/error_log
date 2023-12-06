@@ -1,0 +1,20 @@
+[15-Jul-2022 02:12:02 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/sitadmin/public_html/posmerchants/utsavcafebhiwadi/themes/default/views/shop/footer.php on line 7
+[15-Jul-2022 02:21:25 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/sitadmin/public_html/posmerchants/utsavcafebhiwadi/themes/default/views/shop/login.php on line 16
+[15-Jul-2022 02:21:25 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/sitadmin/public_html/posmerchants/utsavcafebhiwadi/themes/default/views/shop/footer.php on line 7
+[15-Jul-2022 02:21:26 UTC] PHP Fatal error:  Call to undefined function form_open() in /home/sitadmin/public_html/posmerchants/utsavcafebhiwadi/themes/default/views/shop/signup.php on line 29
+[15-Jul-2022 02:21:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sitadmin/public_html/posmerchants/utsavcafebhiwadi/themes/default/views/shop/orders_details.php on line 50
+[15-Jul-2022 02:21:27 UTC] PHP Fatal error:  Using $this when not in object context in /home/sitadmin/public_html/posmerchants/utsavcafebhiwadi/themes/default/views/shop/header.php on line 25
+[15-Jul-2022 02:21:27 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/sitadmin/public_html/posmerchants/utsavcafebhiwadi/themes/default/views/shop/resend_email_verification.php on line 35
+[15-Jul-2022 02:21:28 UTC] PHP Fatal error:  Using $this when not in object context in /home/sitadmin/public_html/posmerchants/utsavcafebhiwadi/themes/default/views/shop/forgot_password.php on line 32
+[15-Jul-2022 02:21:29 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/sitadmin/public_html/posmerchants/utsavcafebhiwadi/themes/default/views/shop/service_off.php on line 116
+[15-Jul-2022 02:21:30 UTC] PHP Fatal error:  Call to undefined function form_open() in /home/sitadmin/public_html/posmerchants/utsavcafebhiwadi/themes/default/views/shop/guest_otp.php on line 30
+[15-Jul-2022 02:21:30 UTC] PHP Fatal error:  Using $this when not in object context in /home/sitadmin/public_html/posmerchants/utsavcafebhiwadi/themes/default/views/shop/reset_password.php on line 32
+[15-Jul-2022 02:21:31 UTC] PHP Fatal error:  Call to undefined function form_open() in /home/sitadmin/public_html/posmerchants/utsavcafebhiwadi/themes/default/views/shop/mobile_verification.php on line 31
+[15-Jul-2022 02:21:31 UTC] PHP Fatal error:  Call to undefined function form_open() in /home/sitadmin/public_html/posmerchants/utsavcafebhiwadi/themes/default/views/shop/otp_verification.php on line 27
+[15-Jul-2022 02:21:33 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/sitadmin/public_html/posmerchants/utsavcafebhiwadi/themes/default/views/shop/user_landing.php on line 16
+[15-Jul-2022 02:21:34 UTC] PHP Fatal error:  Using $this when not in object context in /home/sitadmin/public_html/posmerchants/utsavcafebhiwadi/themes/default/views/shop/guest-login.php on line 33
+[15-Jul-2022 02:21:34 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/sitadmin/public_html/posmerchants/utsavcafebhiwadi/themes/default/views/shop/password_reset_success.php on line 28
+[15-Jul-2022 02:21:35 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/sitadmin/public_html/posmerchants/utsavcafebhiwadi/themes/default/views/shop/email_verification.php on line 49
+[15-Jul-2022 03:11:54 UTC] PHP Fatal error:  Using $this when not in object context in /home/sitadmin/public_html/posmerchants/utsavcafebhiwadi/themes/default/views/shop/header.php on line 25
+[15-Jul-2022 05:45:01 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/sitadmin/public_html/posmerchants/utsavcafebhiwadi/themes/default/views/shop/login.php on line 16
+[15-Jul-2022 10:32:23 UTC] PHP Fatal error:  Call to undefined function form_open() in /home/sitadmin/public_html/posmerchants/utsavcafebhiwadi/themes/default/views/shop/signup.php on line 29

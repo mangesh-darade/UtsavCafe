@@ -1,0 +1,1 @@
+[14-Jul-2022 19:25:55 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/sitadmin/public_html/posmerchants/utsavcafebhiwadi/themes/default/views/shop/T2/header.php on line 71
